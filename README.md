@@ -1,7 +1,6 @@
-<p align="center"><a href="#" target="_blank"><img src="https://wicak-bukan-joki.000webhostapp.com/img/wicakcompany.jpg" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://wicak-bukan-joki.000webhostapp.com/img/wicakcompany.jpg" width="300"></a></p>
 
-<p align="center">#WicakSU
-</p>
+<strong><p align="center">#WicakSU</p></strong>
 
 ## About Laravel
 
