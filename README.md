@@ -7,8 +7,6 @@
 Ndak tau blom sempet mikir, yang penting bikin template dlu
 
 ## Partner Ship
-
-
-                        <img src="https://wicak-bukan-joki.000webhostapp.com/img/akang.jpg" alt="" width="70" height="70">
-                        <img src="https://wicak-bukan-joki.000webhostapp.com/img/flash.jpg" alt="" width="70" height="70">
-                        <img src="https://wicak-bukan-joki.000webhostapp.com/img/jek.jpg" alt="" width="70" height="70">
+<img src="https://wicak-bukan-joki.000webhostapp.com/img/akang.jpg" alt="" width="70" height="70">
+<img src="https://wicak-bukan-joki.000webhostapp.com/img/flash.jpg" alt="" width="70" height="70">
+<img src="https://wicak-bukan-joki.000webhostapp.com/img/jek.jpg" alt="" width="70" height="70">
