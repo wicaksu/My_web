@@ -5,3 +5,7 @@
 ## About WicakCompany
 
 Ndak tau blom sempet mikir, yang penting bikin template dlu
+
+## Partner Ship
+
+Ndak tau blom sempet mikir, yang penting bikin template dlu
